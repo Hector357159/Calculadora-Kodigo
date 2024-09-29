@@ -1,9 +1,12 @@
 public class Numero {
     //Atributos de la clase Numero
     private int numero;
+    //Contructor de numero sin parametros
+    public Numero() {
 
+    }
 
-    //Constructor de la clase numero
+    //Constructor de la clase numero con parametros
     public Numero(int numero) {
         this.numero = numero;
     }
