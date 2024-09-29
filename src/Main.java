@@ -7,7 +7,7 @@ public class Main {
         Numero numero1 = new Numero();
         Numero numero2 = new Numero();
         Calculadora calculadora = new Calculadora(numero1, numero2);
-        operacion.setOperacion(3);
+        operacion.setOperacion(2);
         do {
 
             switch (operacion.getOperacion()) {

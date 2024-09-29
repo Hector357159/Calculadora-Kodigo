@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98e44102-9863-49dc-a59f-5770ef5df6be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Operacion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calculadora.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Numero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Numero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Operación.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +22,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Hector357159/Calculadora-Kodigo.git",
+    "accountId": "56796343-62d3-4fca-89d0-33a416a90406"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -40,7 +41,7 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Fucion",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/fchev/IdeaProjects/Kodigo-Calculadora/src/Main.java",
     "settings.editor.selected.configurable": "preferences.pluginManager"
