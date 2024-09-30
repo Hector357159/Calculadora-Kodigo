@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class Operacion {
     //Definimos la variable operacion
     private int operacion;
@@ -7,6 +9,18 @@ public class Operacion {
 
     }
 
+
+    public double ingresarNumero() {
+        Scanner scanner = new Scanner(System.in);
+        //creamos una variable a enviar
+        double num;
+        //pedimos los valores de numero
+        System.out.println("Ingresar numero");
+
+        num = scanner.nextDouble();
+
+        return num;
+    }
     //Constructor de la clase Operacion con parametros
     public Operacion(int operacion) {
         this.operacion = operacion;
