@@ -8,19 +8,6 @@ public class Operacion {
     public Operacion() {
 
     }
-
-
-    public double ingresarNumero() {
-        Scanner scanner = new Scanner(System.in);
-        //creamos una variable a enviar
-        double num;
-        //pedimos los valores de numero
-        System.out.println("Ingresar numero");
-
-        num = scanner.nextDouble();
-
-        return num;
-    }
     //Constructor de la clase Operacion con parametros
     public Operacion(int operacion) {
         this.operacion = operacion;
@@ -32,5 +19,17 @@ public class Operacion {
     //El metodo set de operacion
     public void setOperacion(int operacion) {
         this.operacion = operacion;
+    }
+    //este meto obtiene los numero para la clase numero
+    public double ingresarNumero() {
+        Scanner scanner = new Scanner(System.in);
+        //creamos una variable a enviar
+        double num;
+        //pedimos los valores de numero
+        System.out.println("Ingresar numero");
+
+        num = scanner.nextDouble();
+
+        return num;
     }
 }
